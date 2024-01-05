@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.header{
+    /* color: white; */
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 66px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.table{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+}
+
+.text{
+    color: black;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 25px;
+}
+
+.photo{
+    width: 500px;
+    height: 500px;
+
+}
+
+.text1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    /* margin-bottom: 50px; */
+}
+
+.img2{
+    width: 140px;
+    height: 500px;
+}
+
+.text2{
+    color: #545339;
+}
+
+.img{
+    gap: 10px;
+    margin: auto;
+}
